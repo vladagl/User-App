@@ -1,0 +1,22 @@
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\Users App WPF.exe.config
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\Users App WPF.exe
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\Users App WPF.pdb
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF_MarkupCompile.cache
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF_MarkupCompile.lref
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\App.baml
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF.g.resources
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users_App_WPF.Properties.Resources.resources
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF.csproj.CopyComplete
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF.exe
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF.pdb
