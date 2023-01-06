@@ -20,3 +20,12 @@ C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF.csproj.CoreComp
 C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF.csproj.CopyComplete
 C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF.exe
 C:\Users\USER\source\repos\Users App WPF\obj\Debug\Users App WPF.pdb
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\userapp.db
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\Users App WPF\bin\Debug\System.Data.SQLite.xml
