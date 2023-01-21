@@ -35,5 +35,10 @@ namespace Users_App_WPF
             this.email = email;
             this.pass = pass;
         }
+
+        public override string ToString()
+        {
+            return "User: " + Login + ". Email: " + Email;
+        }
     }
 }

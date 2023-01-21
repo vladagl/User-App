@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\USER\source\repos\Users App WPF\App.xaml
-11151548125
+31297197955
 
-8-466683857
+10-2021765714
 211443593018
-MainWindow.xaml;
+AuthWindow.xaml;MainWindow.xaml;UserPageWindow.xaml;
 
-False
+True
 

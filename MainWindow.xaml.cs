@@ -27,14 +27,6 @@ namespace Users_App_WPF
             InitializeComponent();
 
             db = new ApplicationContext();
-
-            List<User> users = db.Users.ToList();
-            string str = "";
-            foreach (User user in users)
-            {
-                str += "Login: " + user.Login + " | ";
-            }
-            exampleText.Text = str;
         }
 
         private void Button_Reg_Click(object sender, RoutedEventArgs e)
@@ -81,7 +73,18 @@ namespace Users_App_WPF
 
                 db.Users.Add(user);
                 db.SaveChanges();
+
+                AuthWindow authWindow = new AuthWindow();
+                authWindow.Show();
+                Hide();
             }
+        }
+
+        private void Button_Window_Click (object sender, RoutedEventArgs e)
+        {
+            AuthWindow authWindow = new AuthWindow();
+            authWindow.Show();
+            Hide();
         }
     }
 }

@@ -29,3 +29,7 @@ C:\Users\USER\source\repos\Users App WPF\bin\Debug\System.Data.SQLite.Linq.dll
 C:\Users\USER\source\repos\Users App WPF\bin\Debug\EntityFramework.xml
 C:\Users\USER\source\repos\Users App WPF\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\USER\source\repos\Users App WPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\AuthWindow.g.cs
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\AuthWindow.baml
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\UserPageWindow.g.cs
+C:\Users\USER\source\repos\Users App WPF\obj\Debug\UserPageWindow.baml
